@@ -1,7 +1,7 @@
 code_insee,nom,taux_sru,taux_cible,departement,population,penalty,maire,politique,sru_status,commune_exemptée
 01427,TRÉVOUX,26.1,25.0,Ain,6931,"0,00 ",PÉCHOUX Marc,LDVD,En règle,Non
-01322,REYRIEUX,16.47,25.0,Ain,5228,"46 559,19 ",BONTEMPS-HESDIN Carole,LDIV,Carencée,Non
-01283,OYONNAX,48.83,20.0,Ain,22378,"0,00 ",PERRAUD Michel,LDVD,En règle,Non
+01322,REYRIEUX,16.47,25.0,Ain,5228,"46 559,19 \u20AC",BONTEMPS-HESDIN Carole,LDIV,Carencée,Non
+01283,OYONNAX,48.83,20.0,Ain,22378,"0,00 \u20AC",PERRAUD Michel,LDVD,En règle,Non
 01185,PLATEAU D'HAUTEVILLE,24.97,20.0,Ain,4790,"0,00 ",EMIN Philippe,LDVD,En règle,Non
 01031,BELLIGNAT,53.9,20.0,Ain,3581,"0,00 ",RAVET Véronique,LDVG,En règle,Non
 01265,MONTRÉAL-LA-CLUSE,38.27,20.0,Ain,3584,"0,00 ",DUFOUR Patrick,LNC,En règle,Non
