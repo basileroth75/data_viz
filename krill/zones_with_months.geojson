@@ -14,6 +14,8 @@
 { "type": "Feature", "properties": { "zone_id": "SPZ-BS", "protected": "10-02", "start_month": 10, "end_month": 2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -58.0, -62.0 ], [ -57.25, -62.0 ], [ -57.25, -62.35 ], [ -61.1, -63.32 ], [ -61.88, -62.93 ], [ -60.09, -62.46 ], [ -58.0, -62.0 ] ] ] } },
 { "type": "Feature", "properties": { "zone_id": "SPZ-GSE", "protected": "10-03", "start_month": 10, "end_month": 3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -62.77, -62.5 ], [ -61.88, -62.93 ], [ -61.1, -63.32 ], [ -59.74, -64.06 ], [ -62.2, -64.93 ], [ -63.7, -64.0 ], [ -62.77, -62.5 ] ] ] } },
 { "type": "Feature", "properties": { "zone_id": "SPZ-LIS", "protected": "04-05", "start_month": 4, "end_month": 5 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -59.0, -61.5 ], [ -60.25, -62.0 ], [ -62.77, -62.5 ], [ -62.59, -61.55 ], [ -59.0, -61.5 ] ] ] } },
-{ "type": "Feature", "properties": { "zone_id": "SPZ-SINE", "protected": "12-02", "start_month": 12, "end_month": 2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -60.14, -62.29 ], [ -58.0, -61.71 ], [ -58.0, -62.0 ], [ -60.09, -62.46 ], [ -60.14, -62.29 ] ] ] } }
+{ "type": "Feature", "properties": { "zone_id": "SPZ-SINE", "protected": "12-02", "start_month": 12, "end_month": 2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -60.14, -62.29 ], [ -58.0, -61.71 ], [ -58.0, -62.0 ], [ -60.09, -62.46 ], [ -60.14, -62.29 ] ] ] } },
+{ "type": "Feature", "properties": { "zone_id": "GPZ-SOI", "protected": "All year  ", "start_month": 1, "end_month": 12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -60.25,-43.5 ], [ -61.5,-43.5 ], [ -61.5,-44 ], [ -62,-44 ], [ -62,-46 ], [ -61.25,-46 ], [ -61.25,-45.25 ], [ -60.25,-45.2 ], [-60.25,-43.5  ] ] ] } },
+
 ]
 }
