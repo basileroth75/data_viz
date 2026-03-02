@@ -1,0 +1,164 @@
+[
+  {
+    "Party": "Union de la gauche",
+    "year_2020": 297,
+    "year_2026": 461,
+    "Diff": 164
+  },
+  {
+    "Party": "La France insoumise",
+    "year_2020": 82,
+    "year_2026": 243,
+    "Diff": 161
+  },
+  {
+    "Party": "Union de l'extrême droite",
+    "year_2020": 0,
+    "year_2026": 85,
+    "Diff": 85
+  },
+  {
+    "Party": "Extrême droite",
+    "year_2020": 38,
+    "year_2026": 88,
+    "Diff": 50
+  },
+  {
+    "Party": "Reconquête",
+    "year_2020": 0,
+    "year_2026": 18,
+    "Diff": 18
+  },
+  {
+    "Party": "Union des droites pour la République",
+    "year_2020": 0,
+    "year_2026": 17,
+    "Diff": 17
+  },
+  {
+    "Party": "Extrême gauche",
+    "year_2020": 285,
+    "year_2026": 302,
+    "Diff": 17
+  },
+  {
+    "Party": "Rassemblement National",
+    "year_2020": 389,
+    "year_2026": 405,
+    "Diff": 16
+  },
+  {
+    "Party": "Horizons",
+    "year_2020": 0,
+    "year_2026": 8,
+    "Diff": 8
+  },
+  {
+    "Party": "Régionalistes",
+    "year_2020": 53,
+    "year_2026": 51,
+    "Diff": -2
+  },
+  {
+    "Party": "Droite souverainiste (ex-DLF)",
+    "year_2020": 10,
+    "year_2026": 6,
+    "Diff": -4
+  },
+  {
+    "Party": "Parti radical de gauche",
+    "year_2020": 5,
+    "year_2026": 0,
+    "Diff": -5
+  },
+  {
+    "Party": "Divers centre",
+    "year_2020": 1004,
+    "year_2026": 994,
+    "Diff": -10
+  },
+  {
+    "Party": "Gilets jaunes",
+    "year_2020": 10,
+    "year_2026": 0,
+    "Diff": -10
+  },
+  {
+    "Party": "Modem",
+    "year_2020": 18,
+    "year_2026": 5,
+    "Diff": -13
+  },
+  {
+    "Party": "Divers droite",
+    "year_2020": 1759,
+    "year_2026": 1743,
+    "Diff": -16
+  },
+  {
+    "Party": "Union de la droite",
+    "year_2020": 74,
+    "year_2026": 49,
+    "Diff": -25
+  },
+  {
+    "Party": "Union du centre",
+    "year_2020": 83,
+    "year_2026": 57,
+    "Diff": -26
+  },
+  {
+    "Party": "Union des Démocrates et Indépendants",
+    "year_2020": 56,
+    "year_2026": 23,
+    "Diff": -33
+  },
+  {
+    "Party": "Divers",
+    "year_2020": 1085,
+    "year_2026": 1022,
+    "Diff": -63
+  },
+  {
+    "Party": "Parti communiste français",
+    "year_2020": 120,
+    "year_2026": 49,
+    "Diff": -71
+  },
+  {
+    "Party": "Parti socialiste",
+    "year_2020": 175,
+    "year_2026": 94,
+    "Diff": -81
+  },
+  {
+    "Party": "Ecologiste",
+    "year_2020": 174,
+    "year_2026": 43,
+    "Diff": -131
+  },
+  {
+    "Party": "Les Écologistes (ex-EELV)",
+    "year_2020": 182,
+    "year_2026": 33,
+    "Diff": -149
+  },
+  {
+    "Party": "Les Républicains",
+    "year_2020": 303,
+    "year_2026": 152,
+    "Diff": -151
+  },
+  {
+    "Party": "Divers gauche",
+    "year_2020": 1730,
+    "year_2026": 1544,
+    "Diff": -186
+  },
+  {
+    "Party": "Renaissance / LREM",
+    "year_2020": 247,
+    "year_2026": 7,
+    "Diff": -240
+  }
+]
